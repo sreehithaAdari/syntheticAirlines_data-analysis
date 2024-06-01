@@ -1,2 +1,3 @@
-# syntheticAirlines_data-analysis
+Exploring Insights from Synthetic Airline Data Analysis with Qlik
 "Exploring Insights from Synthetic Airline Data Analysis with Qlik" is a data analytics project that aims to harness the power of Qlik, a leading business intelligence (BI) and data visualization tool, to analyze synthetic airline data. This data encompasses various facets of airline operations such as flight schedules, passenger demographics, ticket sales, and performance metrics. By leveraging Qlik's robust analytical capabilities, this project seeks to uncover meaningful patterns, trends, and correlations within the data, providing valuable insights to support decision-making processes for airlines, airports, and related stakeholders.
+![Screenshot 2024-05-31 193327](https://github.com/sreehithaAdari/syntheticAirlines_data-analysis/assets/100212933/99c23a61-ae80-47c7-b94a-132726332876)
