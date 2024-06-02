@@ -13,5 +13,6 @@ Responsive Dashboards:
 ![Screenshot 2024-05-31 193258](https://github.com/sreehithaAdari/syntheticAirlines_data-analysis/assets/100212933/7420d49e-5745-497a-ac7f-889c42733263)
 ![Screenshot 2024-05-31 193309](https://github.com/sreehithaAdari/syntheticAirlines_data-analysis/assets/100212933/2d5b1769-cf9d-4de1-af9f-672a39fc1e2b)
 
-Demo Video:
+Demo Videos:
 https://drive.google.com/file/d/1nP-IcYjOPaq-o6SOL5QKil4quNkHKqSr/view?usp=sharing
+https://drive.google.com/file/d/1jzU0ExL200XyIrnheHjPgDdphKCy0DmC/view?usp=drive_link
